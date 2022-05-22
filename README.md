@@ -1,7 +1,7 @@
 # PowerBI Box Office Project
 
 This the project in my Excel Spreedsheets class I took in college
-The project will be done after April 16th 2022
+The project is under construction
 
 The goal is to see if people are watching movies more or less and if people are spending more or less on a movie
 
