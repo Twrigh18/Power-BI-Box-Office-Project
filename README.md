@@ -78,28 +78,31 @@ YEAR	MOVIE	GENRE	MPAA RATING	DISTRIBUTOR	TOTAL FOR YEAR	TOTAL IN 2019 DOLLARS	TI
 
 ### What are the top 6 grossing Creative Types and the included total gross?
 	
-RANK	CREATIVE TYPES	TOTAL GROSS
-1	Contemporary Fiction	$96,203,727,036
-2	Kids Fiction	$32,035,539,746
-3	Science Fiction	$29,922,660,857
-4	Fantasy	$21,724,062,575
-5	Super Hero	$20,273,157,911
-6	Historical Fiction	$18,521,260,744
-7	Dramatization	$15,715,191,699
-8	Factual	$2,960,327,207
-9	Multiple Creative Types	$117,574,526
+RANK	CREATIVE TYPES	          TOTAL GROSS
+1.      Contemporary Fiction	  $96,203,727,036
+2.	Kids Fiction	          $32,035,539,746
+3.	Science Fiction	$29,922,660,857
+4.	Fantasy	$21,724,062,575
+5.	Super Hero	$20,273,157,911
+6.	Historical Fiction	$18,521,260,744
+7.	Dramatization	$15,715,191,699
+8.	Factual	$2,960,327,207
+9.	Multiple Creative Types	$117,574,526
+
 				
 ### What are the top grossing Creative Types and the included average gross?
 RANK	CREATIVE TYPES	TOTAL GROSS
-1	Contemporary Fiction	$96,203,727,036
-2	Kids Fiction	$32,035,539,746
-3	Science Fiction	$29,922,660,857
-4	Fantasy	$21,724,062,575
-5	Super Hero	$20,273,157,911
-6	Historical Fiction	$18,521,260,744
-7	Dramatization	$15,715,191,699
-8	Factual	$2,960,327,207
-9	Multiple Creative Types	$117,574,526
+1	Contemporary Fiction	              $96,203,727,036
+2	Kids Fiction	                      $32,035,539,746
+3	Science Fiction	                       $29,922,660,857
+4	Fantasy	                              21,724,062,575
+5	Super Hero	                    $20,273,157,911
+6	Historical Fiction	             | $18,521,260,744  |
+7	Dramatization	                     |  $15,715,191,699  |
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+8	Factual	                            | $2,960,327,207  |
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+9	Multiple Creative Types	          | $117,574,526 |
 					
 
 
@@ -108,58 +111,58 @@ RANK	CREATIVE TYPES	TOTAL GROSS
 
 ### What are the top grossing Distributors and the included total gross?
 RANK	DISTRIBUTORS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
-1	Walt Disney	588	$40,472,424,278	$68,830,654	0.1702
-2	Warner Bros.	824	$36,269,425,479	$44,016,293	0.1525
-3	Sony Pictures	747	$29,113,002,302	$38,973,229	0.1224
-4	Universal	535	$28,089,932,569	$52,504,547	0.1181
-5	20th Century Fox	525	$25,857,839,756	$49,253,028	0.1088
-6	Paramount Pictures	493	$24,361,425,304	$49,414,656	0.1025
-7	Lionsgate	426	$9,631,837,781	$22,609,948	0.0405
-8	New Line	209	$6,195,268,024	$29,642,431	0.0261
-9	Dreamworks SKG	77	$4,278,649,271	$55,566,874	0.018
-10	Miramax	385	$3,836,019,208	$9,963,686	0.0161
+1.	Walt Disney	588	$40,472,424,278	$68,830,654	0.1702
+2.	Warner Bros.	824	$36,269,425,479	$44,016,293	0.1525
+3.	Sony Pictures	747	$29,113,002,302	$38,973,229	0.1224
+4.	Universal	535	$28,089,932,569	$52,504,547	0.1181
+5.	20th Century Fox	525	$25,857,839,756	$49,253,028	0.1088
+6.	Paramount Pictures	493	$24,361,425,304	$49,414,656	0.1025
+7.	Lionsgate	426	$9,631,837,781	$22,609,948	0.0405
+8.	New Line	209	$6,195,268,024	$29,642,431	0.0261
+9.	Dreamworks SKG	77	$4,278,649,271	$55,566,874	0.018
+10.	Miramax	385	$3,836,019,208	$9,963,686	0.0161
 
 ### What are the top grossing Distributors and the included average gross?
 RANK	DISTRIBUTORS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
-1	Walt Disney	588	$40,472,424,278	$68,830,654	0.1702
-9	Dreamworks SKG	77	$4,278,649,271	$55,566,874	0.018
-4	Universal	535	$28,089,932,569	$52,504,547	0.1181
-6	Paramount Pictures	493	$24,361,425,304	$49,414,656	0.1025
-5	20th Century Fox	525	$25,857,839,756	$49,253,028	0.1088
-2	Warner Bros.	824	$36,269,425,479	$44,016,293	0.1525
-3	Sony Pictures	747	$29,113,002,302	$38,973,229	0.1224
-8	New Line	209	$6,195,268,024	$29,642,431	0.0261
-7	Lionsgate	426	$9,631,837,781	$22,609,948	0.0405
-10	Miramax	385	$3,836,019,208	$9,963,686	0.0161
+1.	Walt Disney	588	$40,472,424,278	$68,830,654	0.1702
+9.	Dreamworks SKG	77	$4,278,649,271	$55,566,874	0.018
+4.	Universal	535	$28,089,932,569	$52,504,547	0.1181
+6.	Paramount Pictures	493	$24,361,425,304	$49,414,656	0.1025
+5.	20th Century Fox	525	$25,857,839,756	$49,253,028	0.1088
+2.	Warner Bros.	824	$36,269,425,479	$44,016,293	0.1525
+3.	Sony Pictures	747	$29,113,002,302	$38,973,229	0.1224
+8.	New Line	209	$6,195,268,024	$29,642,431	0.0261
+7.	Lionsgate	426	$9,631,837,781	$22,609,948	0.0405
+10.	Miramax	385	$3,836,019,208	$9,963,686	0.0161
 
 
 ## Top Genres
 
 ### What are the top grossing genres and the included total gross?
 RANK	GENRES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
-1	Adventure	1102	$64,529,536,530	$58,556,748	0.2714
-2	Action	1098	$49,339,974,493	$44,936,224	0.2075
-3	Drama	5479	$35,586,177,269	$6,495,013	0.1497
-4	Comedy	2418	$33,687,992,318	$13,932,172	0.1417
-5	Thriller/Suspense	1186	$19,810,201,102	$16,703,374	0.0833
-6	Horror	716	$13,430,378,699	$18,757,512	0.0565
-7	Romantic Comedy	630	$10,480,124,374	$16,635,118	0.0441
-8	Musical	201	$4,293,988,317	$21,363,126	0.0181
-9	Documentary	2415	$2,519,513,142	$1,043,277	0.0106
-10	Black Comedy	213	$2,185,433,323	$10,260,250	0.0092
+1.	Adventure	1102	$64,529,536,530	$58,556,748	0.2714
+2.	Action	1098	$49,339,974,493	$44,936,224	0.2075
+3.	Drama	5479	$35,586,177,269	$6,495,013	0.1497
+4.	Comedy	2418	$33,687,992,318	$13,932,172	0.1417
+5.	Thriller/Suspense	1186	$19,810,201,102	$16,703,374	0.0833
+6.	Horror	716	$13,430,378,699	$18,757,512	0.0565
+7.	Romantic Comedy	630	$10,480,124,374	$16,635,118	0.0441
+8.	Musical	201	$4,293,988,317	$21,363,126	0.0181
+9.	Documentary	2415	$2,519,513,142	$1,043,277	0.0106
+10.	Black Comedy	213	$2,185,433,323	$10,260,250	0.0092
 
 ### What is the top grossing genre and the included average gross?
 RANK	GENRES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
-1	Adventure	1102	$64,529,536,530	$58,556,748	0.2714
-2	Action	1098	$49,339,974,493	$44,936,224	0.2075
-8	Musical	201	$4,293,988,317	$21,363,126	0.0181
-6	Horror	716	$13,430,378,699	$18,757,512	0.0565
-5	Thriller/Suspense	1186	$19,810,201,102	$16,703,374	0.0833
-7	Romantic Comedy	630	$10,480,124,374	$16,635,118	0.0441
-4	Comedy	2418	$33,687,992,318	$13,932,172	0.1417
-10	Black Comedy	213	$2,185,433,323	$10,260,250	0.0092
-3	Drama	5479	$35,586,177,269	$6,495,013	0.1497
-9	Documentary	2415	$2,519,513,142	$1,043,277	0.0106
+1.	Adventure	1102	$64,529,536,530	$58,556,748	0.2714
+2.	Action	1098	$49,339,974,493	$44,936,224	0.2075
+8.	Musical	201	$4,293,988,317	$21,363,126	0.0181
+6.	Horror	716	$13,430,378,699	$18,757,512	0.0565
+5.	Thriller/Suspense	1186	$19,810,201,102	$16,703,374	0.0833
+7.	Romantic Comedy	630	$10,480,124,374	$16,635,118	0.0441
+4.	Comedy	2418	$33,687,992,318	$13,932,172	0.1417
+10.	Black Comedy	213	$2,185,433,323	$10,260,250	0.0092
+3.	Drama	5479	$35,586,177,269	$6,495,013	0.1497
+9.	Documentary	2415	$2,519,513,142	$1,043,277	0.0106
 
 
 ## Top Grossing Ratings
@@ -202,6 +205,11 @@ RANK	SOURCES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 9	Based on Folk Tale/Legend/Fairytale	78	$3,406,118,495	$43,668,186	0.0143
 10	Based on Play	271	$2,111,190,923	$7,790,372	0.0089
 
+| SOURCES  | TOTAL GROSS |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### What are the top 6 top grossing sources and the Average gross included?
 RANK	SOURCES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 3	Based on Comic/Graphic Novel	249	$23,369,989,130	$93,855,378	0.0983
@@ -215,11 +223,18 @@ RANK	SOURCES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 10	Based on Play	271	$2,111,190,923	$7,790,372	0.0089
 5	Based on Real Life Events	3225	$11,398,356,297	$3,534,374	0.0479
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
 
 ## Top Production Methods
 
 ### What are the top 3 productions methods and total gross?
-RANK	PRODUCTION METHODS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
+|RANK PRODUCTION METHODS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 1	Live Action	14613	$179,637,201,848	$12,292,972	0.7556
 2	Animation/Live Action	264	$30,346,622,254	$114,949,327	0.1276
 3	Digital Animation	365	$23,920,180,508	$65,534,741	0.1006
@@ -227,6 +242,32 @@ RANK	PRODUCTION METHODS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 5	Stop-Motion Animation	37	$676,490,120	$18,283,517	0.0028
 6	Multiple Production Methods	26	$43,728,300	$1,681,858	0.0002
 7	Rotoscoping	4	$8,468,385	$2,117,096	0
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Solutions to bring the box office number back to normal post pandemic
 1 Bring people to theaters
