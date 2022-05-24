@@ -6,10 +6,34 @@ The project is under construction
 The goal is to see if people are watching movies more or less and if people are spending more or less on a movie
 
 ## Annual Ticket Sales   
+
+![](Box%20Office%20and%20Ticket%20Sales.png)
+
 ### Did the total tickets sold increase or decrease over time
 ### Did the total box office 2019 adjusted increase or decrease over time
 
-
+Box Office and Ticket Sales.png
+Add files via upload
+now
+README.md
+Update README.md
+2 days ago
+Top Creative Types.png
+Add files via upload
+now
+Top Distributors.png
+Add files via upload
+now
+Top Genres.png
+Add files via upload
+now
+Top Production Methods.png
+Add files via upload
+now
+Top Ratings.png
+Add files via upload
+now
+Top Sources.png
 ## Highest Grossers
 
 ### Top 5 movies in 2019 Dollars
@@ -76,6 +100,8 @@ YEAR	MOVIE	GENRE	MPAA RATING	DISTRIBUTOR	TOTAL FOR YEAR	TOTAL IN 2019 DOLLARS	TI
 
 ## Popular Creative Types
 
+![](Top%20Creative%20Types.png)
+
 ### What are the top 6 grossing Creative Types and the included total gross?
 	
 RANK	CREATIVE TYPES	          TOTAL GROSS
@@ -109,6 +135,8 @@ RANK	CREATIVE TYPES	TOTAL GROSS
 
 ## Top Distributors
 
+![](Top%20Distributors.png)
+
 ### What are the top grossing Distributors and the included total gross?
 RANK	DISTRIBUTORS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 1.	Walt Disney	588	$40,472,424,278	$68,830,654	0.1702
@@ -137,6 +165,8 @@ RANK	DISTRIBUTORS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 
 
 ## Top Genres
+
+![](Top%20Genres.png)
 
 ### What are the top grossing genres and the included total gross?
 RANK	GENRES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
@@ -167,6 +197,8 @@ RANK	GENRES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 
 ## Top Grossing Ratings
 
+![](Top%20Ratings.png)
+
 ### What is the top grossing ratings and the included total gross?
 RANK	MPAA RATINGS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 1	PG-13	3243	$113,524,789,243	$35,006,102	0.4775
@@ -191,6 +223,8 @@ RANK	MPAA RATINGS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 8	GP	7	$552,618	$78,945	0
 
 ## Top Grossing Sources
+
+![](Top%20Sources.png)
 
 ### What are the top 6 top grossing sources and the total gross included?
 RANK	SOURCES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
@@ -232,6 +266,8 @@ RANK	SOURCES	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
 
 
 ## Top Production Methods
+
+![](Top%20Production%20Methods.png)
 
 ### What are the top 3 productions methods and total gross?
 |RANK PRODUCTION METHODS	MOVIES	TOTAL GROSS	AVERAGE GROSS	MARKET SHARE
