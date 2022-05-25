@@ -111,16 +111,26 @@ Higher the average the less flops movies in the genre are going to get
 
 ### What is the top grossing ratings and the included total gross?
 
-The movies the gross the most are pg movies. R has some high grossers like Deadpool Matrix Logan It. These movies over performed in the box office which can result for R having a very high totqal gross. Pg has a 
-G has Disney and pixar in which they make lots of money in the box office
+* PG13 has the highest total gross. Majoirty of the bigggest frnachises whther it a superhero movie or a novel apdeapted movie or an action movie. PG13 movies can draw all types of people and all ages, but that depends on the movie. 
 
+* R movies are number 2. R movies are a novelty to watch in theater becasue of higher barreir to entry due to movie theater requiring people to be accqimned by someone that is 17 or older. R movies do have a novelty factor that will not find in a PG13 wherther it is strong laguage, grusome violence, or sexually suggestive conent. which can draw moviegoers.
+
+* The movies the gross the most are pg movies. PG has lots of fmailiy feriendly films.
+* 
+* R has some high grossers like Deadpool Matrix Logan It. These movies over performed in the box office which can result for R having a very high totqal gross. Pg has a 
+
+G has Disney and pixar in which they make lots of money in the box office. There is not alot of G movies 
+
+* NC17 is a fansicnating rating. There are not many NC17 Becasue of the total restrictions. Becasue of restricytroing the audience, NC17 movies don't make money. Studios want that younger audience becasue they make money . This is the reason why studios will make cesnors for a movie to at least get an R rating.
 
 ### What is the top grossing ratings and the included average gross?
 
+* pG13 is still the top. Alot of franchises are always getting PG13 reatings. The movies can be unsuable for younger views but not crazy enough for a R rating.
+
 
 Pg is consinten;y grosses gighr. PG has more family friendly films than PG13
-The reason for NC17 uge drop off because of the repution that it for sure has contents that are unsubtle of gernel audience. Theaters not allow allowing NC17 is a big ciontrubtor for having low avergage gross
 
+The reason for NC17 uge drop off because of the repution that it for sure has contents that are unsubtle of gernel audience. People will think that NC17 is like rated X and that rating is a big no no for the genral audeince. Becasue of the low average gross, studios will not make NC17 movies.
 
 ## Top Grossing Sources
 
@@ -137,11 +147,11 @@ The reason for NC17 uge drop off because of the repution that it for sure has co
 
 ### What are the top 6 top grossing sources and the Average gross included?
 
+* Comic book . Poeple love comic book . This also expanisn why disney bought Marvel.
 *
 *
 *
-*
-*
+* Oringial screenly is alot more difficiult to get the genral audience to watch in theaters becasue they are unfamiliar with the materisl
 *
 
 ## Top Production Methods
