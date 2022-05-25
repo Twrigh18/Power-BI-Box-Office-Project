@@ -59,22 +59,30 @@ The goal is to see if people are watching movies more or less and if people are 
 
 ### What are the top grossing Distributors and the included total gross?
 
+1. The top distrubtor is Disney. The reason they have Star Wars, Marvel, Pixar. I beleive this contuniue to grow escpically with the merger of 20th century fox
+2.  Warner Bros is number two. Warner Bros movies have franchises that were box office success like Batman, Harry Potter, Wonder Woman, Matrix, Godzilla series and more. Harry Potter is the most successful franchise
+3.  Sony has Colmbia Pucture. The movies are
+4.  Universal is the second . The have franchises that wewre box office success like Fast ans Furious, Juraasic Park, Minions, and more. Univeral has Universal studios which helps make the Universal brand more popular in which can translating into watchinh universal movies
+* Parmount . Their biggest franhise is the transformers series
 *
 *
-*
-*
-*
-*
+* 
 
+These are the franchise that overperformed. This doesn't count the fair share of bombs each distributor has. They higher the total gross. The more overperformce the movie had in box office. 
 
 ### What are the top grossing Distributors and the included average gross?
 
+
+* Disney has some box office disappoints but not too much
+* parasmount picture is number 2 
+*
+* Dreamworks is a number 2 brand from Disney for coming out with animated movies that famioliy can enjoy. With dreamwork people will know that they getting a familiy movie therefore that is why dreamworks has a good average gross
 *
 *
-*
-*
-*
-*
+
+This shows that the higher the averager gross is per distrubtor. The less likely there are going to be box office flops from that distrbutor. This is a good thing becasue distrbutors can take risks and if the fiolm flops, the distrunbots wont lose as much money becasue their movies are consistenl;y successful.
+
+This is to show how powerful a brand can get 
 
 ## Top Genres
 
