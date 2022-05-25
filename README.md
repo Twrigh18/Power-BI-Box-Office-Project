@@ -17,7 +17,7 @@ The goal is to see if people are watching movies more or less and if people are 
 
 ### Top 5 movies in 2019 Dollars
 
-*
+* Averagers Engame. THe was the 10 year build of the MCU and this is the conclusuion of the phase in which draw so much fans to whcah the movei. This movie always
 *
 *
 *
@@ -138,12 +138,12 @@ The reason for NC17 uge drop off because of the repution that it for sure has co
 
 ### What are the top 6 top grossing sources and the total gross included?
 
+
+* Original screenly has so many movies that they make so much money becasure there are so many movies
+* YA genres play are role in this
+* Comic book. Becasue the were not many comic book movies coing out compared to now. 
 *
-*
-*
-*
-*
-*
+* Overall movies are either oringial or theey are adapted from other source material
 
 ### What are the top 6 top grossing sources and the Average gross included?
 
@@ -151,8 +151,8 @@ The reason for NC17 uge drop off because of the repution that it for sure has co
 *
 *
 *
-* Oringial screenly is alot more difficiult to get the genral audience to watch in theaters becasue they are unfamiliar with the materisl
-*
+* Oringial screenly is alot more difficiult to get the genral audience to watch in theaters becasue they are unfamiliar with the materisl.
+* Overall movies are either oringial or theey are adapted from other source materials
 
 ## Top Production Methods
 
@@ -160,12 +160,18 @@ The reason for NC17 uge drop off because of the repution that it for sure has co
 
 ### What are the top 3 productions methods and total gross?
 
-*
-*
-*
-*
-*
-*
+*  Live Action is the top. It is cheaper to make. Studeios can just pay for the crew and the location and not do any additional work like anymating. And there just a lot of live action movies being made therefore live action movies have big box office numbers.
+*  Live Action/ Animation. The can be a movie with lots of CGi or a live action mixed with animation like Who Framded Rodger rabbit.
+* Digtial animation. Animation in general  moviesdont have the highest total gross is becasue animation has a repution of a genre that only kids can enojy which can turn anyway an older person.
+
+### What are the top 3 productions methods andaverage gross?
+
+* The live action animation mixed. Some movies can pull this off with being into the familiy friendly category
+*  The other animation movies has becasue of the reputation of being familiy frienly in which can tranlate into moviegoers 
+*  * Live action is lower becasue I beielve that most live action movie can be put in the category of oribiagl screenplay in which is is more difficult to get a genrwal audience to go to a movie theater to watch that conent due to the unflamiliarity in the source material
+
+
+
 
 ## Solutions to bring the box office number back to normal post pandemic
 1 Bring people to theaters
