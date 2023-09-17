@@ -118,17 +118,27 @@ Higher the average the less flops movies in the genre are going to get
 ### What is the top grossing ratings and the included total gross?
 
 * PG13 has the highest total gross. Majority of the biggest franchises whether it is a superhero movie or a novel adaptation movie or an action movie, PG13 movies can draw all types of people and all ages, but that depends on the movie. The movies that broke box office records on opening weekends are PG-13 movies.
+  
 * R rated movies are near the top. R movies are a novelty to watch in theaters because of the higher barrier to entry due to movie theaters requiring people to be accompanied by someone that is 17 or older. R movies do have a novelty factor that you will not find in a PG13 whether it is the strong language, gruesome violence, or sexually suggestive content which can draw moviegoers. Comedies and Horror are the main genres that are rated R .The superhero R rated movies like Deadpool, Logan and Joker are the biggest contributors to its highest total gross which is more recent starting the mid 2010s.
+  
 * PG also has a high total gross. PG has lots of family friendly films that are not violent enough for a PG13 rating. Disney Pixar Dreamworks and Illumination have animated PG movies and franchises that broke box office records. The reason PG movies don’t make more than PG13 is because some people assume PG movies are for kids and will not watch them in theaters. PG movies have the potential to gross even more into the future.
+  
 * G rated movies have Disney and Pixar in which they make lots of money in the box office. There are not a lot of G movies being made nowadays. Family friendly movies are now being pushed over the edge with violence and adult jokes which warrants a PG rating nowadays. There is not really a huge difference between G and PG anymore.
+  
 * NC17 is a fascinating rating. There are not many NC17 movies because of the total restrictions. Because of restricting the movies to the general young audience, NC17 movies don't make a lot of money. Studios want that younger audience because they make more money like the PG13, PG, and G movies. This is the reason why studios will make some censorship for a movie to at least get an R rating.
+  
 * NR Not Rated are treated as a R Rating but studios want at least a rating.
+  
 ### What is the top grossing ratings and the included average gross?
 
 * PG13 is still at the top. A Lot of franchises are always getting PG13 ratings like comic book movies, action, fantasy and book adapted movies. The movies can be unsuitable for younger views but not crazy enough for a R rating. It is just more high budget blockbusters that get PG13 ratings but it is changing since PG, G, and R Rated movies have some movies that are higher budget and overperformed and make at a billion or almost a billion dollars in the box office.
+
 * PG is consistently grossed higher. PG has more family friendly films than PG13 but those movies are not known for opening big. They just have better holds in the long run meaning the movies are still popular like a month after release. A PG rating is for sure letting families know that this movie is suitable for children.
+
 * G rated is lower because it is mainly Disney movies that carry this and not many movies come out with this rating.
+
 * R movies have a bigger barrier to entry. Movie theaters have to restrict under 17 to these movies. Studios miss out on potential revenue from making it more accessible to the general audience. R rated movies don’t make as much money consistently as the PG13, PG and G rated movies.
+
 * The reason for NC17's huge drop off is because of the reputation that the movie for sure has contents that are unsubtle for the general audience. People will think that NC17 is like rated X and that rating is a big no no for the general audience. Because of the low average gross, studios will not make NC17 movies for theaters. I have never seen a NC-17 movie playing in theaters in like 20 years. 
 
 ## Top Grossing Sources
