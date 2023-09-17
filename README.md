@@ -1,18 +1,24 @@
 # PowerBI Box Office Project
 
-This the project I did in my free time
+This the project I did in my free time. Itis a passion projects of mine. I love movie going, thereater like IMAX Dobly or any prenimum large format and see how big movies are.
 The project is under construction
 
-The goal is to see if people are watching movies more or less and if people are spending more or less on a movie
+The movies that shows the trends of these datas that I mentioned here are found on the source of where this tableset orignaited which is:
+https://www.the-numbers.com/
+
+The goal is to see if people are going to the movies more or less and what type of movies are popular or not.
 
 ## Annual Ticket Sales   
 
 ![](Box%20Office%20and%20Ticket%20Sales.png)
 
+
+The highest grossing year which is total box office by year is 2018. This record will not be broken for a very long time. The lowest is 1995. Tickets were cheaper back then. The lowest grossing year in the 2000s and 2010s in 2005. The reasoning is that all the big blockbusters came out the years before and the years after. In the 2010s, that would be
 ### Did the total tickets sold increase or decrease over time
+This answer will suprise you. It is actually decreaseing. But is decreasing slowly. The most sold year for tickets was 2002. Why 2002. 2002 had big event movies for example Spider-Man 1, Star Wars Attack of the Clones, Men in Black II, Austin Powers, Signs, Harry Potter and Lord of the Rings Two Towers and mid budget oringial movies oveprerfermed in reletive to their expectiations. That is wh
 
 ### Did the total box office 2019 adjusted increase or decrease over time
-
+Slowly decreasing. It jusr more people went to the movies in the 2000s. This is trend where you start to see that studios are charging more for tickets. In the average price per y
 ## Top MOvie Grossers
 
 ### Top 5 movies in 2019 Dollars
@@ -140,35 +146,35 @@ The reason for NC17 uge drop off because of the repution that it for sure has co
 
 
 * Original screenly has so many movies that they make so much money becasure there are so many movies
-* YA genres play are role in this
-* Comic book. Becasue the were not many comic book movies coing out compared to now. 
-*
+* YA genres play are role in this Baed on fiction story. Example is Twilight and Hunger Game series
+* Comic book movies Becasue the were not many comic book movies coming out compared to now. MCU did not start unitl Iron Man 1. 
+* Remakes are a pretty recent phohnen
 * Overall movies are either oringial or theey are adapted from other source material
 
 ### What are the top 6 top grossing sources and the Average gross included?
 
-* Comic book . Poeple love comic book . This also expanisn why disney bought Marvel.
+* Comic book movies are a no brainer. Comic book movies always consissitent make the most money. Poeple love comic book from all ages from kids to adults. I see alot of suberhero toys and merch in the kids sections in stores. This also explains why Disney bought Marvel. About one a year, at least one marvel movies is gurateed to come out.  DC does have some hit or miss movies but they still generate lot of money becasue people love Superman, Batman, Joker, etc. Comic book movies are here to stay even after the success of Avengers Endgame
+* Spin Off are popular becasue it is attched to a main franchise that the audience are very familiar with. 
+* Basded to TV is up there to.
 *
-*
-*
-* Oringial screenly is alot more difficiult to get the genral audience to watch in theaters becasue they are unfamiliar with the materisl.
+* Oringial screenly is alot more difficiult to get the genral audience to watch in theaters becasue they are unfamiliar with the material.
 * Overall movies are either oringial or theey are adapted from other source materials
 
-## Top Production Methods
+## Top Production Methods COMPLETED
 
 ![](Top%20Production%20Methods.png)
 
 ### What are the top 3 productions methods and total gross?
 
-*  Live Action is the top. It is cheaper to make. Studeios can just pay for the crew and the location and not do any additional work like anymating. And there just a lot of live action movies being made therefore live action movies have big box office numbers.
-*  Live Action/ Animation. The can be a movie with lots of CGi or a live action mixed with animation like Who Framded Rodger rabbit.
-* Digtial animation. Animation in general  moviesdont have the highest total gross is becasue animation has a repution of a genre that only kids can enojy which can turn anyway an older person.
+* Live Action is on top. It is cheaper to make. Studios can just pay for the crew and the location and not do any additional work like animating. And there are just a lot of live action movies being made therefore live action movies have big box office numbers.
+* Live Action/Animation is near the top. The can be a movie with lots of CGI or a live action mixed with animation like Who Framed Roger Rabbit, Space Jam, and the Disney live action remakes which is more recently into the 2010s
+* Digital animation and the other types of animation included are lower. Animation in general, the movies don't have the highest total gross because animation has a reputation of a genre that only kids can enjoy which can turn away any older person.
 
 ### What are the top 3 productions methods andaverage gross?
 
-* The live action animation mixed. Some movies can pull this off with being into the familiy friendly category
-*  The other animation movies has becasue of the reputation of being familiy frienly in which can tranlate into moviegoers 
-*  * Live action is lower becasue I beielve that most live action movie can be put in the category of oribiagl screenplay in which is is more difficult to get a genrwal audience to go to a movie theater to watch that conent due to the unflamiliarity in the source material
+* The live action animation mix is on the top. It is because of the familiar material to them that will always get them to the theater. The biggest success of this is the live action Disney Renaissance remakes like Lion King, Beauty and the Beast, Aladdin, and other remakes like Cinderella and Jungle Book. These are mixed with live animation and cgi. Disney is not done yet with their live action remake slate because they are consistently successful.
+*  Digital animation is near the top because those movies attract a family friendly audience and parents just want to leave the house and go to the theater to entertain their kids. And digital animations are not usually the biggest opening weekend but they stay in theaters for a long time and people go to these movies maybe later in the movies’ life 
+*  Live action is lower because I believe that most live action movie can be put in the category of original screenplay in which is is more difficult to get a general audience to go to a movie theater to watch that content due to the unfamiliarity in the source material and justifying an increasing ticket prices to watch those films
 
 
 
