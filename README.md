@@ -8,6 +8,8 @@ https://www.the-numbers.com/
 
 The goal is to see if people are going to the movies more or less and what type of movies are popular or not.
 
+Note: If you want this file, please reach out to tim.wright1234@yahoo.com so that the file can be shared via Dropbox becasue the file size is too big to store on Github and to be sent on Emails.
+
 ## Annual Ticket Sales   
 
 ![](Box%20Office%20and%20Ticket%20Sales.png)
